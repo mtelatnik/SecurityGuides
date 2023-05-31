@@ -1,4 +1,4 @@
-# Security Guides
+# CISO Security Guides
 A collection of frameworks, guides, standards, and other resources to implement security controls
 
 Connect with me on LinkedIn: https://www.linkedin.com/in/mitchtelatnik/
