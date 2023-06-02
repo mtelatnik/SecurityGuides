@@ -22,6 +22,7 @@ Connect with me on LinkedIn: https://www.linkedin.com/in/mitchtelatnik/
             <li><b><a href="https://www.cisecurity.org/insights/white-papers/cis-ram-risk-assessment-method">CIS Risk Assessment Method (RAM)</a></b><i></i></li>
             <li><b><a href="https://csrc.nist.gov/projects/risk-management/about-rmf">NIST Risk Management Framework</a></b><i></i></li>
             <li><b><a href="https://csrc.nist.gov/publications/detail/sp/800-30/rev-1/final">NIST Guide for Conducting Risk Assessments</a></b><i></i></li>
+            <li><b><a href="https://www.fairinstitute.org/">Factor Analysis of Information Risk (FAIR) </a></b><i></i></li>
         </ul>
     </ul>        
 </details>
