@@ -1,5 +1,5 @@
 # Let's Build a Security Program
-A collection of frameworks, guides, standards, and other resources to build a security program
+A continuously growing collection of frameworks, guides, standards, and other resources to build a security program
 
 Connect with me on LinkedIn: https://www.linkedin.com/in/mitchtelatnik/
 
