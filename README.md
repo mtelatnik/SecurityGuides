@@ -43,6 +43,7 @@ Connect with me on LinkedIn: https://www.linkedin.com/in/mitchtelatnik/
     <ul>
         <ul>
             <li><b><a href="https://www.cisecurity.org/cis-benchmarks">CIS Benchmarks</a></b><i></i></li>
+            <li><b><a href="https://public.cyber.mil/stigs/downloads/">Security Technical Implementation Guides (STIGs)</a></b><i></i></li>
         </ul>
     </ul>        
 </details>
